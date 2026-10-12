@@ -1,0 +1,26 @@
+Student ID,Name,Department,Python Marks,Maths Marks,English Marks,Attendance Percentage,Total Marks,Average Marks,Result,Grade
+101,Aarav Sharma,Computer Science,92,88,85,96,265,88.33,Pass,A
+102,Diya Patel,Data Science,85,94,90,92,269,89.67,Pass,A
+103,Rohan Verma,Information Technology,78,72,80,88,230,76.67,Pass,B
+104,Ananya Iyer,Artificial Intelligence,95,96,92,98,283,94.33,Pass,A+
+105,Kabir Singh,Computer Science,62,58,65,74,185,61.67,Pass,C
+106,Ishita Gupta,Data Science,42,38,70,68,150,50.0,Fail,F
+107,Arjun Nair,Information Technology,88,81,79,91,248,82.67,Pass,A
+108,Meera Joshi,Artificial Intelligence,90,92,88,95,270,90.0,Pass,A+
+109,Aditya Rao,Computer Science,74,68,75,82,217,72.33,Pass,B
+110,Sanya Kapoor,Data Science,55,60,58,78,173,57.67,Pass,D
+111,Vikram Malhotra,Information Technology,35,45,50,62,130,43.33,Fail,F
+112,Pooja Desai,Artificial Intelligence,82,79,84,89,245,81.67,Pass,A
+113,Varun Chopra,Computer Science,68,74,70,84,212,70.67,Pass,B
+114,Neha Kulkarni,Data Science,91,89,93,94,273,91.0,Pass,A+
+115,Karthik Reddy,Information Technology,50,52,55,70,157,52.33,Pass,D
+116,Sneha Sen,Artificial Intelligence,76,82,78,86,236,78.67,Pass,B
+117,Tanmay Bhatt,Computer Science,84,90,82,90,256,85.33,Pass,A
+118,Riya Saxena,Data Science,65,70,68,80,203,67.67,Pass,C
+119,Manish Pandey,Information Technology,38,40,42,65,120,40.0,Fail,F
+120,Priya Menon,Artificial Intelligence,89,85,91,93,265,88.33,Pass,A
+121,Devendra Jadhav,Computer Science,72,66,74,81,212,70.67,Pass,B
+122,Shreya Ghosh,Data Science,96,98,94,99,288,96.0,Pass,A+
+123,Harsh Vardhan,Information Technology,45,48,52,72,145,48.33,Pass,E
+124,Kavita Singhal,Artificial Intelligence,60,64,62,77,186,62.0,Pass,C
+125,Akash Tiwari,Computer Science,79,85,81,87,245,81.67,Pass,A
